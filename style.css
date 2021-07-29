@@ -37,7 +37,7 @@
 }
 
 .kontak {
-  background: url(/img/kontak.jpg) no-repeat center center;
+  background: url(/img/kontak1.jpg) no-repeat center center;
   background-size: cover;
   padding-top: 10%;
   padding-bottom: 10%;
@@ -50,6 +50,26 @@ a.social {
   height: 40px;
   color: #fff;
   border-radius: 50%;
-  background-color: #333;
+  background-color: rgb(76, 224, 56);
+  line-height: 40px;
+}
+
+a.social1 {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 30%;
+  background-color: rgb(207, 78, 121);
+  line-height: 40px;
+}
+
+a.social2 {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: rgb(24, 179, 226);
   line-height: 40px;
 }
